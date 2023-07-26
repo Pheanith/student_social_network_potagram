@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: wheat;
+    
+}
+.wrapper{
+    width: 330px;
+    height: 800px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color:white;
+    border-radius: 10px;
+    text-align: 0 20px 35px rgb(0, 0, 0, 0.1);
+    
+}
+.logo{
+    border-radius: 50%;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(211, 181, 124);
+    position: relative;
+    left: 50px;
+    bottom:37px;
+}
+
+.icon2{
+    color:rgb(211, 181, 124) ;
+    position: relative;
+    left: 90%;
+    bottom:76px;
+}
+hr{
+    position: relative;
+    bottom: 70px;
+}
+.img1{
+    position: relative;
+    bottom: 55px;
+}
+p1{
+    position: relative;
+    bottom: 40px;
+    font-size: small;
+}
+.img2{
+    position: relative;
+    top: -30px;
+}
+.img3{
+    position: relative;
+    top: -5px;
+}
+.img4{
+    position: relative;
+    top:25px;
+}
+.icon{
+    position: relative;
+    top: 60px;
+    left: 5px;
+}
+p2{
+    position: relative;
+    top: 55px;
+    font-size: smaller;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

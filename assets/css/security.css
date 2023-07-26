@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: wheat;
+    
+}
+.wrapper{
+    width: 330px;
+    height: 800px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color:white;
+    border-radius: 10px;
+    text-align: 0 20px 35px rgb(0, 0, 0, 0.1); 
+}
+.header{
+    display: flex;
+    position: relative;
+    bottom: 60px;
+}
+.logo{
+    border-radius: 50%;
+}
+p4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(211, 181, 124);
+    position: relative;
+    left: 50px;
+    bottom:37px;
+}
+.icon1{
+    position: relative;
+    top: 25px;
+}
+.icon2{
+    color:rgb(211, 181, 124) ;
+    position: relative;
+    left: 90%;
+    bottom:76px;
+}
+hr{
+    position: relative;
+    bottom: 70px;
+}
+p1{
+    margin-right: 205px;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: larger;
+    color:rgb(211, 181, 124) ;
+}
+.login{
+    margin-bottom:20px;;
+    position: relative;
+    bottom: 50px;
+    
+}
+p2{
+    font-size: large;
+    color:rgb(211, 181, 124) ;
+}
+
+.test1{
+    height: 25px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: black; 
+}
+p3{
+    font-size: smaller;
+}
+.icon{
+    position: relative;
+    top: 170px;
+}

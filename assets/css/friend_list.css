@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: wheat;
+    
+}
+.wrapper{
+    width: 330px;
+    height: 800px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color:white;
+    border-radius: 10px;
+    text-align: 0 20px 35px rgb(0, 0, 0, 0.1); 
+}
+.header{
+    display: flex;
+}
+p{
+    color: rgba(211,181,124,1);
+    font-weight: bold;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+button{
+    border:solid;
+    border-radius: 10px;
+    border-color: rgb(211, 181, 124);
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+}
+p3{
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: medium;
+}
+input{
+    width: 300px;
+    outline: none;
+    padding-left: 40px;
+    border: 1px solid rgb(211, 181, 124);
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background:white;
+    font-size: medium;
+    background-color: #D9CAB1;
+}
+img{
+    margin-bottom: 20px;;
+}
+.image{
+    position: relative;
+    bottom: 10px;
+}
+p1{
+    font-size: medium;
+}
+.icon{
+    margin-left: 5px;
+    position: relative;
+    bottom: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p2{
+    font-size: smaller;
+    font-weight: lighter;
+    position: relative;
+    bottom: 13px;
+}
